@@ -1,3 +1,5 @@
+*This project has reached the end. You should find another project to replace this project.*
+
 # Safe Transaction
 
 여러분의 거래를 안전하게 지켜드리는 Safe Transaction 브라우저 확장 프로그램입니다.  
