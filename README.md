@@ -80,13 +80,6 @@ Whale: https://store.whale.naver.com/detail/fennejhonlpdndgjkhpgojjlnfbcjakk
  - IP 안에 무엇이 있을지 생각해보신 적 있으세요? 아무것도 없답니다.
  - 온라인 보안을 해드립니다
 
-# 만드는 것을 도와주신 감사한 분
-
- - [@BawAppie](https://twitter.com/BawAppie)
-
-## Github Sponsor
-이 프로젝트는 [한국모바일상품권](https://korgiftcard.io)으로부터 금전적인 지원을 많이 받았습니다.
-
 
 # 외부 서버 이용 안내
 
